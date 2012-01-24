@@ -4,7 +4,7 @@ Async signaling library for .NET and NodeJS to help build real-time, multi-user 
 ## What can it be used for?
 Pushing data from the server to the client (not just browser clients) has always been a tough problem. SignalR makes it dead easy and handles all the heavy lifting for you.
 
-SignalR.Node can be compared with Socket.IO and Minotaur.
+SignalR.Node can be compared with [Socket.io](http://socket.io/). In fact, if you have no need for SignalR's JavaScript client library, you're better of using [Socket.io](http://socket.io/) on NodeJS.
 
 ## Why SignalR.Node?
 When building web applications, chances are you are standardizing on one technology, for example .NET and SignalR. Using SignalR.Node, parts of the application can be built using the JavaScript evrsion of SignalR without having to build multiple clients.
