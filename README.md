@@ -71,3 +71,4 @@ Using SignalR's client-side JavaScript, which can be obtained from [GitHub](http
 - No support for multiple transports (currently only long polling)
 - No support for Websockets
 - Only PersistentConnection has been implemented, Hubs are not available at this time
+- Hub and SignalBus abstractions, SignalR.Node will only run on one node and can not scale out at this time
