@@ -1,0 +1,17 @@
+{
+    "name" : "SignalR",
+    "version": "v0.0.1",
+    "description": "",
+    "keywords": ["long poll", "server", "jsonp"],
+    "homepage" : "https://github.com/maartenba/signalr.node",
+    "author" : { 
+        "name" : "Maarten Balliauw",
+        "email": "maarten@maartenballiauw.be",
+        "url": "http://blog.maartenballiauw.be"
+    },
+    "repository" : { 
+        "type" : "git",
+        "url" : "git://github.com/maartenba/signalr.node.git"
+    },
+    "main": "./SignalR"
+}
